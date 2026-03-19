@@ -1,0 +1,1 @@
+ocelot and appsettings are on the server
